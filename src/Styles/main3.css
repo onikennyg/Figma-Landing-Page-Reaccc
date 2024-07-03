@@ -1,0 +1,24 @@
+.spend-sec {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 60px;
+    }
+    .heading {
+        font-size: 36px;
+        color: #4D4D4D;
+        font-weight: bold;
+    }
+    .learn {
+        width: 151px;
+        height: 52px;
+        border-radius: 4px;
+        gap: 10px;
+        background-color: #4CAF4F;
+        color: white;
+        cursor: pointer;
+    }
+
+    .learn:hover {
+        background-color: black;
+    }

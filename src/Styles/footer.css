@@ -1,0 +1,49 @@
+.foott {
+    width: 100%;
+    background-color: #263238;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 328px;
+}
+.tex {
+    color: white;
+    font-weight: bold;
+}
+.name {
+    display: flex;
+}
+.p1 {
+    color: white;
+    margin: 20px;
+}
+.p2 {
+    color: white;
+    margin: 20px;
+}
+.sec1 {
+    color: #F5F7FA;
+}
+.sec2 {
+    color: #F5F7FA;
+}
+.sec3 {
+    color: #F5F7FA;
+}
+.m-1 {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+input {
+    width: 255px;
+    height: 40px;
+    border-radius: 8px;
+    opacity: 20%;
+    color: white;
+}
+
+h4:hover {
+    color: green;
+    cursor: pointer;
+}

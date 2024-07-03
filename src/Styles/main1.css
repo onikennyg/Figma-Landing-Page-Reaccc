@@ -1,0 +1,67 @@
+.first-one {
+    background-color: #F5F7FA;
+    height: 599px;
+
+}
+.first {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 100px;
+   
+    
+    
+}
+.big {
+    color: #4D4D4D;
+    font-weight: bold;
+    font-size: 64px
+}
+.third {
+    color: #4CAF4F;
+    font-weight: bold;
+}
+.btn {
+    border-radius: 6px;
+    background-color: #4CAF4F;
+    width: 128px;
+    height: 52px;
+    color: white;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: black;
+}
+
+.second p {
+    font-size: 16px;
+    color: #717171;
+}
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-top: 70px;
+   
+}
+.circle1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #4CAF4F;
+}
+.circle2 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:  #717171;
+}
+.circle3 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color:  #717171;
+}
